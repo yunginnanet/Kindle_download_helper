@@ -143,3 +143,6 @@ DOWNLOADS/
 my_kindle_stats.md
 pdocs_bookmark.json
 ebooks_bookmark.json
+
+.idea/
+gui/*_rc.py
